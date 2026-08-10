@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Lícia Coimbra 👋
 
-<!--
-**liciaccoimbra/liciaccoimbra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering Student | Developer Intern
 
-Here are some ideas to get you started:
+I'm a Software Engineering student currently building my skills in software development and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in creating practical solutions, learning new technologies, and continuously improving my programming skills.
+
+### 🛠️ Technologies & Tools
+
+- HTML & CSS
+- JavaScript
+- PHP
+- SQL
+- Git & GitHub
+
+### 📚 Currently Learning
+
+- Software Development
+- Database and SQL
+- Web Development
+- Version Control with Git
+- Clean and organized code
+
+### 🚀 Projects
+
+Here you'll find projects from my university studies, personal learning, and software development journey.
+
+### 📫 Let's Connect
+
+More links coming soon.
+
+---
+
+⭐ Thanks for visiting my profile!
