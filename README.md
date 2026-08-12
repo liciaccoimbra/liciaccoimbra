@@ -32,8 +32,6 @@ More links coming soon.
 
 ---
 
-## 🇧🇷 Português
-
 ### Estudante de Engenharia de Software | Estagiária de Desenvolvimento
 
 Sou estudante de Engenharia de Software e atualmente estou desenvolvendo minhas habilidades em desenvolvimento de software e tecnologia.
