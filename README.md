@@ -1,4 +1,4 @@
-# Hi, I'm Lícia Coimbra 👋
+# Hi, I'm Lícia Coimbra 
 
 ### Software Engineering Student | Developer Intern
 
@@ -50,6 +50,12 @@ Tenho interesse em criar soluções práticas, aprender novas tecnologias e evol
 ### 🚀 Projetos
 
 Aqui você encontrará projetos desenvolvidos durante minha graduação, estudos pessoais e minha jornada no desenvolvimento de software.
+
+### 📫 Vamos nos conectar
+
+<a href="URL_DO_SEU_LINKEDIN_AQUI" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="mailto:liciacoimbra.es@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
 
 ---
 
