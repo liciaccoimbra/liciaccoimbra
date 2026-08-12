@@ -24,7 +24,8 @@ Here you'll find projects from my university studies, personal learning, and sof
 
 ### 📫 Let's Connect
 
-More links coming soon.
+<a href="URL_DO_SEU_LINKEDIN_AQUI" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="mailto:liciacoimbra.es@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ---
 
