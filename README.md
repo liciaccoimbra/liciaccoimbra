@@ -8,19 +8,19 @@ I'm interested in creating practical solutions, learning new technologies, and c
 
 ### 🛠️ Technologies & Tools
 
-- HTML & CSS
-- JavaScript
-- PHP
-- SQL
-- Git & GitHub
+* HTML & CSS
+* JavaScript
+* PHP
+* SQL
+* Git & GitHub
 
 ### 📚 Currently Learning
 
-- Software Development
-- Database and SQL
-- Web Development
-- Version Control with Git
-- Clean and organized code
+* Software Development
+* Databases & SQL
+* Web Development
+* Version Control with Git
+* Clean and organized code
 
 ### 🚀 Projects
 
@@ -32,4 +32,35 @@ More links coming soon.
 
 ---
 
+## 🇧🇷 Português
+
+### Estudante de Engenharia de Software | Estagiária de Desenvolvimento
+
+Sou estudante de Engenharia de Software e atualmente estou desenvolvendo minhas habilidades em desenvolvimento de software e tecnologia.
+
+Tenho interesse em criar soluções práticas, aprender novas tecnologias e evoluir continuamente minhas habilidades em programação.
+
+### 🛠️ Tecnologias e Ferramentas
+
+* HTML & CSS
+* JavaScript
+* PHP
+* SQL
+* Git & GitHub
+
+### 📚 Atualmente estudando
+
+* Desenvolvimento de Software
+* Banco de Dados e SQL
+* Desenvolvimento Web
+* Controle de versão com Git
+* Código limpo e organizado
+
+### 🚀 Projetos
+
+Aqui você encontrará projetos desenvolvidos durante minha graduação, estudos pessoais e minha jornada no desenvolvimento de software.
+
+---
+
 ⭐ Thanks for visiting my profile!
+
