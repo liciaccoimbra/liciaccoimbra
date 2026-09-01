@@ -58,7 +58,13 @@ Aqui você encontrará projetos desenvolvidos durante minha graduação, estudos
 <a href="URL_DO_SEU_LINKEDIN_AQUI" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="mailto:liciacoimbra.es@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
+---
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/liciaccoimbra/output/main/github-contribution-grid-snake.svg" />
+
+</div>
 ---
 
 ⭐ Thanks for visiting my profile!
