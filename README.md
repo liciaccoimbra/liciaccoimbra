@@ -29,6 +29,13 @@ Here you'll find projects from my university studies, personal learning, and sof
 <a href="mailto:liciacoimbra.es@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ---
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liciaccoimbra/output/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/liciaccoimbra/output/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/liciaccoimbra/output/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ### Estudante de Engenharia de Software | Estagiária de Desenvolvimento
 
