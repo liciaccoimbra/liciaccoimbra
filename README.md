@@ -71,6 +71,6 @@ Aqui você encontrará projetos desenvolvidos durante minha graduação, estudos
 <br>
 
 <p align="center">
-  <sub>⭐ Thanks for visiting my profile! ⭐</sub>
+  <h3>⭐ Thanks for visiting my profile! ⭐</h3>
 </p>
 
